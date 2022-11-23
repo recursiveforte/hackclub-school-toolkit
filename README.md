@@ -3,7 +3,7 @@
 This directory will contain resources for students to work with their schools to start clubs.
 
 ## Pages:
-[Resources to convince IT administrators to unblock essential websites](unblocking)
+[Example letters to IT & school administrators](letters)
 
 [Hacky solutions to get around restrictions](hacky_solutions)
 
