@@ -1,6 +1,6 @@
 ﻿The email that we are replying to:
 
-![](Aspose.Words.5d5394a5-1f45-4c51-b088-aecfc373c821.001.png)
+![](email.png)
 
 In response to your email on Hack Club, I would like to restate my points that this is an organization that would greatly benefit South Forsyth High School and its student body by giving them monumental opportunities.
 
