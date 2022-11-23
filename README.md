@@ -6,3 +6,5 @@ This directory will contain resources for students to work with their schools to
 [unblocking](unblocking)
 
 [hacky solutions](hacky_solutions)
+
+[letters](letters)
