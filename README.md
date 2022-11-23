@@ -3,8 +3,8 @@
 This directory will contain resources for students to work with their schools to start clubs.
 
 ## Pages:
-[unblocking](unblocking)
+[Resources to convince IT administrators to unblock essential websites](unblocking)
 
-[hacky solutions](hacky_solutions)
+[Hacky solutions to get around restrictions](hacky_solutions)
 
-[letters](letters)
+[Resources for club leaders trying to find an advisor](finding_advisors)
