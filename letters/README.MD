@@ -2,6 +2,8 @@ Hack Clubs allow creative students to create technical projects. Tools such as [
 
 Below, we’ve provided a couple of examples of letters sent to IT departments in hopes of getting these core tools unblocked. We hope these letters inspire you to reach out to your school’s IT Department and request that the tools your Hack Club need get unblocked!
 
-Thomas’s Example (District) [Sahiti’s Example (School)](sahti_email.md)
+[Thomas’s Example (District)](thomas_email.md)
+
+[Sahiti’s Example (School)](sahti_email.md)
 
 Additionally, feel free to use this letter by Leo (a leader at Hack Club HQ): [Leo’s Letter](leo_letter.md)
