@@ -18,5 +18,5 @@ If you are unable to install IDEs but want a good web IDE, [GitHub CodeSpaces](h
 If your issues stem from device restrictions, you could ask community focused companies in your area and ask them for old laptops. You should probably get approval from your advisor before doing this. 
 
 ## Mass Advisors
-If you are unable to find an adivsor that is STEM focused, finding a person who advises large numbers of clubs even if they are not a STEM teacher could help because them advising a lage number of clubs shows they are up to the task.
+If you are unable to find an adivsor that is STEM focused, finding a person who advises large numbers of clubs even if they are not a STEM teacher could help because them advising a large number of clubs shows they are up to the task.
 Some schools even allow non-teachers to be advisors as long as they get school permission and pass a background check.
